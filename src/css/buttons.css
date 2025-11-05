@@ -1,0 +1,37 @@
+a.btn {
+    text-decoration: none;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color: transparent;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-mobile {
+    font-size: 1.5rem;
+}
+
+.btn-default {
+    background-color: var(--color-primary-1);
+    color: var(--color-neutral-0);
+
+    &:hover {
+        background-color: var(--color-primary-2);
+    }
+}
+
+.btn-outlined {
+    background-color: var( --color-neutral-7);
+    color: var(--color-neutral-0);
+
+    &:hover {
+        background-color: var(--color-neutral-8);
+    }
+}
+
