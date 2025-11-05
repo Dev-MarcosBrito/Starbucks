@@ -13,7 +13,7 @@
     dev-marcosbrito.github.io/Starbucks-LandingPage
   </a>
   <br><br>
-  <img src="https://github.com/Dev-MarcosBrito/Starbucks-LandingPage/blob/main/src/images/preview.png?raw=true" alt="img-preview">
+  <img src="https://github.com/Dev-MarcosBrito/Starbucks/blob/main/src/images/preview-Starbucks.png?raw=true" alt="img-preview">
 </p>
 
 <h2>▶️ Vídeo do Projeto</h2>
@@ -98,3 +98,4 @@ readme.md
   Este projeto foi desenvolvido <strong>exclusivamente para fins educacionais</strong>.  
   Todas as imagens, ícones e nomes utilizados são de caráter ilustrativo e <strong>não possuem vínculo oficial</strong> com a marca Starbucks.
 </p>
+
