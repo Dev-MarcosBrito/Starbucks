@@ -9,7 +9,7 @@
 <h2>🔗 Deploy e Preview</h2>
 <p>
   Acesse a página publicada:  
-  <a href="https://dev-marcosbrito.github.io/Starbucks-LandingPage/" target="_blank" rel="noopener noreferrer">
+  <a href="https://dev-marcosbrito.github.io/Starbucks/" target="_blank" rel="noopener noreferrer">
     dev-marcosbrito.github.io/Starbucks-LandingPage
   </a>
   <br><br>
@@ -94,5 +94,6 @@ readme.md
   Este projeto foi desenvolvido <strong>exclusivamente para fins educacionais</strong>.  
   Todas as imagens, ícones e nomes utilizados são de caráter ilustrativo e <strong>não possuem vínculo oficial</strong> com a marca Starbucks.
 </p>
+
 
 
